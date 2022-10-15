@@ -8,7 +8,7 @@ I'm Forhad Hossen, I am a frontend developer and still I am learing.I have compl
 
 Skills: HTML / CSS/  JS / REACT /  TAILWIND / BOOTSTRAP
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning JAVASCIPT AND REACT JS 
 - 👯 I’m looking to collaborate on GITHUB 
 
