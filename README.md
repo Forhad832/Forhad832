@@ -6,7 +6,7 @@
 I'm Forhad Hossen, I am a frontend developer and still I am learing.I have completed Diploma in Power engineering from Rangpur Polytechnic Institute at Rangpur,Bangladesh in 2022.I am available for any kind of job opportunity that suits my interests.
 
 
-Skills: HTML / CSS/  JS / REACT /  TAILWIND / BOOTSTRAP
+Skills: HTML / CSS/  JS / JQUERY / REACT JS /  TAILWIND / BOOTSTRAP / PHP / MYSQL 
 
 
 - 🌱 I’m currently learning JAVASCIPT AND REACT JS 
